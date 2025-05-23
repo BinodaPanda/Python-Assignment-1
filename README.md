@@ -7,3 +7,6 @@ This repository contains two basic Python programs to practice user input and si
 - Takes two numbers as input
 - Performs addition, subtraction, multiplication, and division
 - Displays the result of each operation
+## Task 2: Personalized Greeting
+- Takes first name and last name from the user
+- Prints a personalized greeting message
